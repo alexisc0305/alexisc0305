@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexisc0305
-- 👀 I’m interested in software engineering, UX/UI, human-computer interaction, machine learning, artificial intelligence, and ethical tech.
-- 🌱 I’m currently learning machine learning and artificial intelligence in a corporate space, as well as JavaScript.
+- 👀 I’m interested in software engineering, artificial intelligence, machine learning, data science, UX/UI, human-computer interaction, and ethical tech.
+- 🌱 I’m currently pursuing a Master's in Computer Science with a focus on data science and artificial intelligence.
 - 💞️ I’m looking to collaborate on nothing (at the moment).
 - 📫 Contact me via email at alexis.cathcart0305@gmail.com.
 
